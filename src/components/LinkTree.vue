@@ -2,7 +2,7 @@
   <v-app id="inspire">
     <v-main>
       <v-container class="app" fluid>
-        <h3 class="display-1 text-left">vuetree</h3>
+        <h3 class="display-1 text-left">vueLinks</h3>
         <v-row justify="center" align="center">
           <v-col>
             <div id="wrapper">
