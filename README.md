@@ -7,5 +7,5 @@
 1: clone this repo<br>
 2: cd into the directory (eg: cd vue-links)<br>
 3: then install the dependencies <code>npm install</code><br>
-4: Finally <code>npm run serve</code> to view the live-demo<br>
+4: Finally <code>npm run serve</code> to view this repo live<br>
 5: <code>Happy coding🎉</code>
