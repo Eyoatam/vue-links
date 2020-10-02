@@ -1,13 +1,13 @@
 <template>
-  <Link />
+  <appLink />
 </template>
 
 <script>
-import Link from "./components/LinkTree.vue";
+import Link from "./components/Links.vue";
 export default {
   name: "App",
   components: {
-    Link,
+    appLink: Link,
   },
 };
 </script>
