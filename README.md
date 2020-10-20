@@ -1,9 +1,6 @@
 # VueJs_Links_Page
 <hr>
 
-# ScreenShot of the page
-<img src="https://github.com/Eyoatam/vue-links/blob/master/src/assets/LiveDemo.png" alt="screenshot of the page">
-
 ## How it Works
 1: clone this repo<br>
 2: cd into the directory (eg: cd vue-links)<br>
